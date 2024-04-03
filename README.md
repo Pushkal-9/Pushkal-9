@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pushkal Mudhapaka</h1>
-<h3 align="center">An experienced backend developer.</h3>
+<h1 align="center">Hi there, I'm Pushkal Mudhapaka! 👋</h1>
+<h3 align="center"> Welcome to my GitHub profile! I'm currently pursuing a Master of Science in Computer Science at Indiana University Bloomington. I excel in backend development, with a strong background in Java, Python, Django, and Spring Boot. My experience at Livspace and Freo (MoneyTap) includes building scalable microservices and RESTful APIs, managing complex databases in SQL and NoSQL, and implementing cloud solutions with AWS and GCP. I'm adept at enhancing system performance and security </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushkal-9&label=Profile%20views&color=0e75b6&style=flat" alt="pushkal-9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pushkal-9" alt="pushkal-9" /></a> </p>
 
-- 💬 Ask me about **Java, Spring, SQL**
+- 💬 Ask me about **Java, Spring, Backend, Microservices, SQL**
 
 - 📫 How to reach me **mudhapakapushkal@gmail.com**
 
