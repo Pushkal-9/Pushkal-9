@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mudhapakapushkal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oZBmGXqxYvEuveNtAdCgq7xl8g9y5DB8/view?usp=sharing](https://drive.google.com/file/d/1oZBmGXqxYvEuveNtAdCgq7xl8g9y5DB8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OTArBKU-oSKL5-prcQGsByOULI29ygVg/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
